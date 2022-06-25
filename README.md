@@ -20,6 +20,12 @@ Things I am using
 - [`taze`](https://github.com/antfu/taze) - Upgrade dependencies
 - [`bumpp`](https://github.com/antfu/bumpp) - Bump version for new release
 - [`esno`](https://github.com/esbuild-kit/esno) - TypeScript runtime
+- [`eslint`](https://eslint.org/) - Linter
+  - Config: [antfu/eslint-config](https://github.com/antfu/eslint-config)
+- Build Tools
+  - [`unbuild`](https://github.com/unjs/unbuild)
+  - [`tsup`](https://github.com/egoist/tsup)
+  - [`rollup`](https://rollupjs.org/)
 
 ## Templates
 
@@ -39,5 +45,6 @@ Things I am using
 
 - MacBook Pro 16' M1 Max
 - Mic: Blue Yeti Nano
+- Camera: Nikon Z6 II
 - (no external keyboard/monitor)
 
