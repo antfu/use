@@ -46,6 +46,13 @@ Things I am using
   - [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) - Disable cookie popups, probably more relevant in EU
 
 
+## MacOS Productivity
+
+- [Alfred](https://www.alfredapp.com/) - Spotlight replacement
+- [Kap](https://getkap.co/) - GIF Recorder
+- [Rectangle](https://rectangleapp.com/) - Window Manager
+- [Klack](https://tryklack.com/) - Mechanical Keyboard Sound for built-in keyboard
+
 ## Design / Social Media
 
 - [`broz`](https://github.com/antfu/broz) - Frameless browser for screenshots
