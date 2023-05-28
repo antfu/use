@@ -13,7 +13,7 @@ Things I am using
 
 ## Chrome Extensions
 
-- [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - No brainer must-have
+- [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - No-brainer must-have
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - User scripts for any website
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) - It looks very nice!
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Spell check
@@ -22,12 +22,12 @@ Things I am using
 
 ## MacOS Productivity
 
-- [Alfred](https://www.alfredapp.com/) - Spotlight replacement
-  - Clipboard History
-  - Dictionary
+- [Raycast](https://raycast.com/) - Spotlight replacement
 - [Kap](https://getkap.co/) - GIF Recorder
 - [Rectangle](https://rectangleapp.com/) - Window Manager
 - [Klack](https://tryklack.com/) - Mechanical Keyboard Sound for built-in keyboard
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
+- [Picture View](https://wl879.github.io/apps/picview/) - Picture Viewer
 
 ## Design / Social Media
 
@@ -39,11 +39,12 @@ Things I am using
 
 ## Hardware
 
-- MacBook Pro 16' M1 Max / 64GB RAM
+- MacBook Pro 16' M1 Max 64GB
 - Microphone: Blue Yeti Nano
-- Cameras: RICOH GR IIIx / Nikon Z6 II
+- Camera: RICOH GR IIIx / Nikon Z6 II
 - Monitor: LG 27UL850-W
 - Mouse: Logitech MX Ergo / MX Master 3
+- Light: Elgato Key Light Air
 - (no external keyboard, but with Klack to make it sound like a mechanical one) 
 
 ## CLI
