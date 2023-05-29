@@ -28,6 +28,7 @@ Things I am using
 - [Klack](https://tryklack.com/) - Mechanical Keyboard Sound for built-in keyboard
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
 - [Picture View](https://wl879.github.io/apps/picview/) - Picture Viewer
+- [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12) - The missing Cut feature for finder
 
 ## Design / Social Media
 
