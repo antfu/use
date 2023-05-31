@@ -24,11 +24,12 @@ Things I am using
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Kap](https://getkap.co/) - GIF Recorder
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
+- [Picture View](https://wl879.github.io/apps/picview/) - Minimalist picture viewer
+- [Picsee](https://picsee.chitaner.com/) - File-based photo management
+- [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12) - The missing Cut feature for finder
 - [Rectangle](https://rectangleapp.com/) - Window Manager
 - [Klack](https://tryklack.com/) - Mechanical Keyboard Sound for built-in keyboard
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
-- [Picture View](https://wl879.github.io/apps/picview/) - Picture Viewer
-- [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12) - The missing Cut feature for finder
 
 ## Design / Social Media
 
