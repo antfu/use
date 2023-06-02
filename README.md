@@ -47,6 +47,7 @@ Things I am using
 - Monitor: LG 27UL850-W
 - Mouse: Logitech MX Ergo / MX Master 3
 - Light: Elgato Key Light Air
+- Chair: Herman Miller Sayl
 - (no external keyboard, but with Klack to make it sound like a mechanical one) 
 
 ## CLI
