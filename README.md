@@ -8,8 +8,9 @@ Things I am using
 - VS Code Settings & Extensions: [antfu/vscode-settings](https://github.com/antfu/vscode-settings)
 - Fonts: [Input Mono](https://input.djr.com/)
 - Theme: [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
-- File Icons: [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
+- Icons Theme: [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
 - Product Icons: [Carbon Icons](https://github.com/antfu/vscode-icons-carbon)
+- Formatting & Linting: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) with [`@antfu/eslint-config`](https://github.com/antfu/eslint-config)
 
 ## Chrome Extensions
 
@@ -27,9 +28,8 @@ Things I am using
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
 - [Picture View](https://wl879.github.io/apps/picview/) - Minimalist picture viewer
 - [Picsee](https://picsee.chitaner.com/) - File-based photo management
-- [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12) - The missing Cut feature for finder
+- [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12) - The missing Cut feature for Finder
 - [Rectangle](https://rectangleapp.com/) - Window Manager
-- [Klack](https://tryklack.com/) - Mechanical Keyboard Sound for built-in keyboard
 
 ## Design / Social Media
 
@@ -45,10 +45,10 @@ Things I am using
 - Microphone: Blue Yeti Nano
 - Camera: RICOH GR IIIx / Nikon Z6 II
 - Monitor: LG 27UL850-W
-- Mouse: Logitech MX Ergo / MX Master 3
+- Mouse: Logitech MX Ergo
 - Light: Elgato Key Light Air
 - Chair: Herman Miller Sayl
-- (no external keyboard, but with Klack to make it sound like a mechanical one) 
+- Keyboard: HHKB Studio
 
 ## CLI
 
