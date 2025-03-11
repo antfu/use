@@ -4,7 +4,7 @@ Things I am using
 
 ## Editor
 
-- Editor: [VS Code](https://code.visualstudio.com/)
+- Editor: [VS Code](https://code.visualstudio.com/) (trying [Cursor](https://www.cursor.com/) right now)
 - VS Code Settings & Extensions: [antfu/vscode-settings](https://github.com/antfu/vscode-settings)
 - Fonts: [Input Mono](https://input.djr.com/)
 - Theme: [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
@@ -12,40 +12,47 @@ Things I am using
 - Product Icons: [Carbon Icons](https://github.com/antfu/vscode-icons-carbon)
 - Formatting & Linting: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) with [`@antfu/eslint-config`](https://github.com/antfu/eslint-config)
 
-## Chrome Extensions
+## Browser 
+
+Switched to [Brave](https://brave.com/) as Chrome is pushing hard on [Manifest V3](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) without a good solution for Ad blockers.
+
+### Extensions
 
 - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - No-brainer must-have
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - User scripts for any website
+- [Language Reactor](https://www.languagereactor.com/) - Awesome for learning languages with videos
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) - It looks very nice!
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Spell check
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Ad blocker
-- [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) - Disable cookie popups, probably more relevant in EU
+- [iCloud Passwords](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj) - I moved my passwords manager to iCloud
 
 ## MacOS Productivity
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
+- [Picture View](https://wl879.github.io/apps/picview/) - Minimalist picture viewer
+- [Setapp](https://setapp.com/)
+  - [NotchNook](https://lo.cafe/notchnook) - Supercharge your Notch
+  - [Bartender](https://www.macbartender.com/) - Manage your menu bar
+  - [CleanShot X](https://cleanshot.com/) - Screenshot tool
+  - [AlDente](https://apphousekitchen.com/) - Charge limiter
+- [Picsee](https://picsee.chitaner.com/) - File-based photo Management
 - [Kap](https://getkap.co/) - GIF Recorder
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
-- [Picture View](https://wl879.github.io/apps/picview/) - Minimalist picture viewer
-- [Picsee](https://picsee.chitaner.com/) - File-based photo management
-- [Command X](https://apps.apple.com/us/app/command-x/id6448461551?mt=12) - The missing Cut feature for Finder
-- [Rectangle](https://rectangleapp.com/) - Window Manager
 
 ## Design / Social Media
 
-- [`broz`](https://github.com/antfu/broz) - Frameless browser for screenshots
 - [Figma](https://www.figma.com/) - Illustrations, Logos, Social Media Banners
 - [OBS](https://obsproject.com/) - Streaming & Recording
+- [`broz`](https://github.com/antfu/broz) - Frameless browser for screenshots
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editing
-- [Lightroom Classic](https://www.adobe.com/products/photoshop-lightroom-classic.html) - Photo Editing and Management
+- [Affinity Photo](https://affinity.serif.com/photo) - Photo Editing
 
 ## Hardware
 
 - MacBook Pro 16' M1 Max 64GB
-- Microphone: Blue Yeti Nano
+- Microphone: DJI Mic 2 ~~Blue Yeti Nano~~
 - Camera: RICOH GR IIIx / Nikon Z6 II
 - Monitor: LG 27UL850-W
-- Mouse: Logitech MX Ergo
+- Mouse: Logitech MX Ergo S
 - Light: Elgato Key Light Air
 - Chair: Herman Miller Sayl
 - Keyboard: HHKB Studio
