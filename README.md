@@ -48,9 +48,9 @@ Switched to [Brave](https://brave.com/) as Chrome is pushing hard on [Manifest V
 
 ## Hardware
 
-- MacBook Pro 16' M1 Max 64GB
-- Microphone: DJI Mic 2 ~~Blue Yeti Nano~~
-- Camera: RICOH GR IIIx / Nikon Z6 II
+- MacBook Pro 16' M1 Max 64GB / ~~MacBook Air Intel~~ / ~~Dell XPS 15~~
+- Microphone: DJI Mic 2 / ~~Blue Yeti Nano~~
+- Photo Camera: RICOH GR IIIx / ~~Nikon Z6 II~~ / ~~Nikon D750~~ / ~~Canon 600D~~
 - Monitor: LG 27UL850-W
 - Mouse: Logitech MX Ergo S
 - Light: Elgato Key Light Air
